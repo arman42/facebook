@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.55107725.chunk.js",
-    "main.js.map": "/static/js/main.55107725.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.12bc6e0f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.12bc6e0f.js.map",
-    "static/js/2.e6cbe71a.chunk.js": "/static/js/2.e6cbe71a.chunk.js",
-    "static/js/2.e6cbe71a.chunk.js.map": "/static/js/2.e6cbe71a.chunk.js.map",
-    "static/js/3.381f40a4.chunk.js": "/static/js/3.381f40a4.chunk.js",
-    "static/js/3.381f40a4.chunk.js.map": "/static/js/3.381f40a4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e6cbe71a.chunk.js.LICENSE.txt": "/static/js/2.e6cbe71a.chunk.js.LICENSE.txt"
+    "main.css": "/facebook/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/facebook/static/js/main.55107725.chunk.js",
+    "main.js.map": "/facebook/static/js/main.55107725.chunk.js.map",
+    "runtime-main.js": "/facebook/static/js/runtime-main.6b3a75dd.js",
+    "runtime-main.js.map": "/facebook/static/js/runtime-main.6b3a75dd.js.map",
+    "static/js/2.e6cbe71a.chunk.js": "/facebook/static/js/2.e6cbe71a.chunk.js",
+    "static/js/2.e6cbe71a.chunk.js.map": "/facebook/static/js/2.e6cbe71a.chunk.js.map",
+    "static/js/3.381f40a4.chunk.js": "/facebook/static/js/3.381f40a4.chunk.js",
+    "static/js/3.381f40a4.chunk.js.map": "/facebook/static/js/3.381f40a4.chunk.js.map",
+    "index.html": "/facebook/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/facebook/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e6cbe71a.chunk.js.LICENSE.txt": "/facebook/static/js/2.e6cbe71a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12bc6e0f.js",
+    "static/js/runtime-main.6b3a75dd.js",
     "static/js/2.e6cbe71a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.55107725.chunk.js"
